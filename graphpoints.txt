@@ -1,0 +1,66 @@
+digest size: 8 bits
+number of inputs: 54
+took 0.0007479190826416016 seconds
+digest size: 10 bits
+number of inputs: 72
+took 0.0008690357208251953 seconds
+digest size: 12 bits
+number of inputs: 190
+took 0.0022602081298828125 seconds
+digest size: 14 bits
+number of inputs: 300
+took 0.004505634307861328 seconds
+digest size: 16 bits
+number of inputs: 738
+took 0.011355400085449219 seconds
+digest size: 18 bits
+number of inputs: 2420
+took 0.027837514877319336 seconds
+digest size: 20 bits
+number of inputs: 2420
+took 0.029613494873046875 seconds
+digest size: 22 bits
+number of inputs: 6038
+took 0.06763386726379395 seconds
+digest size: 24 bits
+number of inputs: 6038
+took 0.07037472724914551 seconds
+digest size: 26 bits
+number of inputs: 26164
+took 0.2584223747253418 seconds
+digest size: 28 bits
+number of inputs: 26164
+took 0.2642648220062256 seconds
+digest size: 30 bits
+number of inputs: 144602
+took 1.4289212226867676 seconds
+digest size: 32 bits
+number of inputs: 151740
+took 1.4687812328338623 seconds
+digest size: 34 bits
+number of inputs: 286690
+took 2.7630646228790283 seconds
+digest size: 36 bits
+number of inputs: 1436548
+took 13.929147958755493 seconds
+digest size: 38 bits
+number of inputs: 2546698
+took 24.971986532211304 seconds
+digest size: 40 bits
+number of inputs: 2546698
+took 24.892342805862427 seconds
+digest size: 42 bits
+number of inputs: 2546698
+took 24.95663332939148 seconds
+digest size: 44 bits
+number of inputs: 9223606
+took 98.01852011680603 seconds
+digest size: 46 bits
+number of inputs: 17196348
+took 196.61761021614075 seconds
+digest size: 48 bits
+number of inputs: 69739090
+took 717.3436462879181 seconds
+digest size: 50 bits
+number of inputs: 69739090
+took 615.9340028762817 seconds
