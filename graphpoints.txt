@@ -1,3 +1,4 @@
+***************** Task 1: ************************
 digest size: 8 bits
 number of inputs: 54
 took 0.0007479190826416016 seconds
@@ -64,3 +65,32 @@ took 717.3436462879181 seconds
 digest size: 50 bits
 number of inputs: 69739090
 took 615.9340028762817 seconds
+
+
+******************** Task 2: ************************
+Bilbo's password: welcome
+took 1655.7170898914337 seconds
+Thorin's password: diamond
+took 396.24889636039734 seconds
+Kili's password: ossify
+took 1929.5068995952606 seconds
+Dwalin's password: drossy
+took 1741.915542602539 seconds
+Gloin's password: oversave
+took 7976.533393621445 seconds
+Nori's password: swagsman
+took 11354.968061447144 seconds
+Bifur's password: corrosible
+took 5272.366622924805 seconds
+Durin's password: purrone
+took 36669.09887385368 seconds
+
+All Passwords:
+User: Bilbo, Password: welcome
+User: Thorin, Password: diamond
+User: Kili, Password: ossify
+User: Dwalin, Password: drossy
+User: Gloin, Password: oversave
+User: Nori, Password: swagsman
+User: Bifur, Password: corrosible
+User: Durin, Password: purrone
