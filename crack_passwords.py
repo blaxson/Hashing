@@ -1,7 +1,4 @@
 import bcrypt, os, sys, time
-import os
-import sys
-import time
 
 def main():
     users = get_users()
