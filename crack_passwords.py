@@ -26,7 +26,6 @@ def crack_user_passwords(users):
             print("password not found")
         else:
             print("took {} seconds".format(stop-start))
-        print("{0}'s password: {1}".format(user['user'], user['password']))
 
 """ returns true if password is correct, false otherwise;
     if password is correct, updates user["password"] """
@@ -50,7 +49,6 @@ def get_users():
     for line in file:
         user = get_user_data(line)
         users.append(user)
-        line = file.readline()
     file.close()
     return users
 
